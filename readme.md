@@ -2,12 +2,11 @@ Here’s the completed `README.md` in proper Markdown format, structured as a ty
 
 ---
 
-```markdown
+
 # Assignment Tracker
 
 A sleek, dark-mode assignment tracker built with **Streamlit** to help you manage your university workload. Add assignments, track their completion, monitor progress with charts, and stay organized—all with a minimalist vibe.
 
----
 
 ## Features
 
@@ -20,7 +19,7 @@ A sleek, dark-mode assignment tracker built with **Streamlit** to help you manag
 - **History Tracking**: Logs actions like adding, completing, or deleting assignments.
 - **Clear All**: Reset everything with a single button for a fresh start.
 
----
+
 
 ## Prerequisites
 
@@ -139,15 +138,3 @@ This project is open-source under the [MIT License](LICENSE). Use it, modify it,
 - Dark mode uni vibes 📚
 
 Happy tracking!
-```
-
----
-
-### Formatting Notes
-- **Headings**: Used `#` for the title and `##` for sections, following standard README conventions.
-- **Code Blocks**: Wrapped commands in triple backticks (```bash) for proper syntax highlighting.
-- **Lists**: Used `-` for unordered lists and `1.` for ordered steps, keeping it clean and readable.
-- **Emphasis**: Applied bold (`**`) and italics (`*`) where appropriate to highlight key points or notes.
-- **Separators**: Added `---` between sections for visual clarity.
-
-This is a polished, complete README in Markdown format, ready for your project. If you need tweaks (e.g., a different tone or additional sections), just let me know!
